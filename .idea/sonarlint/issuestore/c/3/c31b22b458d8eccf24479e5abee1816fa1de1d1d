@@ -1,0 +1,8 @@
+
+g	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(Ë·ïÝÿÿÿÿÿ8Æé›÷“1
+q
+java:S20959"OUse try-with-resources or close this "GLFWErrorCallback" in a "finally" clause.(àâç”ûÿÿÿÿ8â±Óú“1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(àâç”ûÿÿÿÿ8×é›÷“1
+\
+java:S1117J":Rename "window" which hides the field declared at line 30.(ûœ´­úÿÿÿÿ8Ùé›÷“1
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(–¬¿î8Üé›÷“1

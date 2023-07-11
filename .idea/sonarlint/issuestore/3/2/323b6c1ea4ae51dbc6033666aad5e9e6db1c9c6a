@@ -1,0 +1,14 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(íÅÊ¹8„¥ë¬’1
+N
+java:S1068",Remove this unused "SENTCLUE" private field.(´Âó¥ûÿÿÿÿ8…¥ë¬’1
+H
+java:S1068"+Remove this unused "ANOTHER" private field.(îø‘·8…¥ë¬’1
+N
+java:S1068	",Remove this unused "NUMJOKES" private field.(£¬¤çøÿÿÿÿ8…¥ë¬’1
+Q
+java:S1068"/Remove this unused "currentJoke" private field.(–öïÂûÿÿÿÿ8…¥ë¬’1
+K
+java:S1068")Remove this unused "clues" private field.(ıªĞûÿÿÿÿ8…¥ë¬’1
+H
+java:S1068"+Remove this unused "answers" private field.(ïŸã®8…¥ë¬’1

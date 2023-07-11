@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çÈŒåıÿÿÿÿ
+>
+java:S1659"(Declare "outputLine" on a separate line.(ìáâÁ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Å¿ıÅüÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÇÎà8ÆªÄû“1
